@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quote of the Day App</string>
+    <string name="the_quote_hint">The Qoute</string>
+</resources>
